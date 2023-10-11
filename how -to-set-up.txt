@@ -1,0 +1,10 @@
+- clone the repository
+- make sure mysql & web service run
+- set up the database from database-dummy.sql
+- open app.py, in line 9-12 set up with your enviroment mysql setting
+- open terminal and run "python -m venv venv" for virtual enviroment
+- after finish run "source venv/bin/activate"
+- after finish run "pip install -r requirements.txt"
+- run the program using python app.py in terminal
+- go to the url 
+ 
